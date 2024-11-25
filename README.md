@@ -20,5 +20,5 @@ Chào mừng bạn đến với dự án **Chat with AI**! Đây là một ứng
 Để bắt đầu sử dụng dự án, bạn cần clone repository về máy tính của mình:
 
 ```bash
-git clone https://github.com/your-username/chat-with-ai.git
+git clone https://github.com/Tienkj/Chat.git
 cd chat-with-ai
