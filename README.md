@@ -16,9 +16,10 @@ Chào mừng bạn đến với dự án **Chat with AI**! Đây là một ứng
 - 🌐 **Chạy trên trình duyệt**: Có thể sử dụng trực tiếp trên trình duyệt mà không cần cài đặt phần mềm.
 
 ## Cài Đặt
-
+Sử dụng trên web:https://tienkj.github.io/Chat
 Để bắt đầu sử dụng dự án, bạn cần clone repository về máy tính của mình:
 
 ```bash
 git clone https://github.com/Tienkj/Chat.git
-cd chat-with-ai
+cd Chat
+vào Chat.html và bắt dầu sử dụng
